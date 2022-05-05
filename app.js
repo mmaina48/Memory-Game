@@ -132,7 +132,7 @@ function checkMatch(){
     cardChosenIds = []
     
     if (cardsWon == (cardsArray.length)/2){
-        alert('Won the Game')
+        alert('You have Won the Game')
         console.log(cardsWon)
 
     }
